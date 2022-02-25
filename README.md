@@ -1,5 +1,4 @@
 - Hi, I’m @SamiRifai
 - Bachelors degree in Mechatronics Systems from TU-Sofia  
 - I’m interested in CyberSecurity and E-hacking
-- I’m currently practicing CTFs from CTFlearn
-- Soon I'll be posting my own CTF writeups
+- I'm currently active on Tryhackme as https://tryhackme.com/p/Sami.Rifai
